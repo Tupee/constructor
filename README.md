@@ -2,6 +2,6 @@
 
 image editor 
 
-situated on the:
+was situated on the:
 
-http://fotobank.biz/fartuky/
+http://fotobank.biz/
